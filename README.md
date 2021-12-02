@@ -5,4 +5,6 @@ Create a WiKi for Rick and Morty using an API + React.js + BootStrap + React Rou
 
 API available on -->
 https://rickandmortyapi.com/
-[Demo](https://arickandmortywiki.netlify.app/)
+
+
+Live Demo --> (https://arickandmortywiki.netlify.app/)

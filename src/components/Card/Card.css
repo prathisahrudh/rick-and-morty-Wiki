@@ -1,0 +1,19 @@
+.badge.bg-danger {
+  top: 10px;
+  right: 20px;
+  font-size: 17px;
+}
+
+.cards-main {
+  border: 2px solid #0b5ed7;
+  box-shadow: 8px 8px lightskyblue;
+  border-radius: 10px;
+}
+
+.image-card {
+  border-radius: 10px 10px 0 0;
+}
+
+.content-card{
+    padding: 15px;
+}
